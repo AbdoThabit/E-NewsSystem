@@ -21,9 +21,10 @@ namespace D3
         public ProfileForm(int _id)
         {
             InitializeComponent();
+            Author_id = _id;
             makeCleanView();
             
-            Author_id = _id;
+            
 
         }
         private void makeCleanView()

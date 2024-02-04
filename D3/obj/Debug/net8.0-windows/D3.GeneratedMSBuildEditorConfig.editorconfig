@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = D3
-build_property.ProjectDir = E:\ITI Labs\Linq&EF\D3\D3\
+build_property.ProjectDir = E:\ITI Projects\E-NewsSystem\E-NewsSystem\D3\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

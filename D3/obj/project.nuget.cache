@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0dBf6Ws3ljK3QymPk+1++eBqG2dZJXz19qHmLVxvFxuA+0WkOd3qEPpwmvKjWYDlhNaX2hV541GMOVliF8Pkzg==",
+  "dgSpecHash": "4eXhNgKWq3JohIxSisUon+uVkBQg4s3/9/ZxfD12Pp7Yn38OZTlEJgHBq5oTOmnKl3lJYJvWVWY3Z5EFhrEXbw==",
   "success": true,
-  "projectFilePath": "E:\\ITI Labs\\Linq&EF\\D3\\D3\\D3.csproj",
+  "projectFilePath": "E:\\ITI Projects\\E-NewsSystem\\E-NewsSystem\\D3\\D3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abdo\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Abdo\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
